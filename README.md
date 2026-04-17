@@ -1,4 +1,4 @@
-![Status](./profile-3d-contrib/profile-night-rainbow.svg) 
+
 <a href="https://skillicons.dev"   >
   <img src="https://skillicons.dev/icons?i=vscode,javascript,typescript,css,html,react,next,nodejs,github,mysql" />
 </a>
